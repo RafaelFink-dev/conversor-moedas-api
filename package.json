@@ -10,6 +10,8 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-picker/picker": "^2.7.5",
+    "axios": "^1.6.8",
     "react": "18.2.0",
     "react-native": "0.73.6"
   },
